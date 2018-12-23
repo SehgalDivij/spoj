@@ -32,4 +32,6 @@
 *.app
 
 # Ignore files without an extension
+*
+!*/
 !*.*
